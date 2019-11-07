@@ -9,4 +9,4 @@ Değil ise "Üzgünüm Bilemediniz” diye mesaj verecektir. Her cevaptan sonra 
 istiyormusunuz(e/E)?” şeklinde bir soru sorulacak ve eğer kullanıcı "e" veya "E" ile karşılık verirse
 oyun tekrar başlayacaktır. Kullanıcının puanı her doğru cevap için 5 puan artacak, her yanlış cevap
 için ise 2 puan azalacaktır. Oyun sonlandığında kullanıcının verdiği doğru cevap sayısı, yanlış cevap
-sayısı ve puanı ekranda listelenmelidir. Bu işlemleri yapan programın c kodlarını yazınız.
+sayısı ve puanı ekranda listelenmelidir. Bu işlemleri yapan programın C# kodlarını yazınız.
