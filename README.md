@@ -1,6 +1,8 @@
 # SizdenGelenler03
 Toplama oyunu
 
+![alt text](https://i0.wp.com/saitorhan.com/wp-content/uploads/2019/11/toplama-Oyunu.jpg?w=498 "Toplama Oyunu")
+
 # Soru:
 Toplama işlemini öğretmeye çalışan bir oyun programı yazılacaktır. Oyun başladığı zaman
 rastgele 2 tane 1-100 arasında sayı tutulacak, tutulan sayılar ekrana gösterilecek ve kullanıcıya bu
